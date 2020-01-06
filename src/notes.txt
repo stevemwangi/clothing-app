@@ -1,0 +1,4 @@
+/** Start on lecture 126*/
+We import actions into components. 
+Steps: 
+1. 
